@@ -1,0 +1,11 @@
+System.out.println("Hello World");
+size(500,500);
+background(100,0,0);
+fill(255,255,0);
+rect(100,50,300,100);
+fill(0);
+stroke(255);
+rect(200,150,100,300);
+noStroke();
+ellipse(250,100,100,100);
+triangle(130, 150, 158, 140, 86, 175);
