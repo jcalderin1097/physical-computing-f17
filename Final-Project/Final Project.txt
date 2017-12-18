@@ -1,0 +1,7 @@
+Final Project 
+Description: Dancing Robot Arms
+The arms would move in different set angles and different time that it was set to in the arrays there were 4 moters that moved 2 in the y-axis and the other 2 in x-axxis and they would synce for the dancing .
+ 
+ 
+
+ 
